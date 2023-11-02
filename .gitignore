@@ -1,3 +1,7 @@
+# Project files
+secrets2.txt
+secrets.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
